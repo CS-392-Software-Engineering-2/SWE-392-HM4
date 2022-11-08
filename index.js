@@ -2,6 +2,8 @@ function mooncakeSays(message) {
   let mooncake = '(o.o)';
  console.log("Welcome to Programiz!");
 console.log("Welcome to Programiz!");
+  console.log("Hello!");
+
   if ( !message ) {
     return `${mooncake} chookity?`;
   }
