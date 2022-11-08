@@ -1,5 +1,5 @@
 function mooncakeSays(message) {
-  let mooncake = '(o.o)';
+  let mooncake = '(O.o)';
  console.log("Welcome to Programiz!");
 console.log("Welcome to Programiz!");
   console.log("Hello!");
@@ -8,7 +8,7 @@ console.log("Welcome to Programiz!");
     return `${mooncake} chookity?`;
   }
 
-  return `${mooncake} ${message}`;
+  return `${mooncake} ${message}!`;
 }
 
 module.exports.mooncakeSays = mooncakeSays;
