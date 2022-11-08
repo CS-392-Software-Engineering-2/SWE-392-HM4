@@ -3,6 +3,7 @@ function mooncakeSays(message) {
  console.log("Welcome to Programiz!");
 console.log("Welcome to Programiz!");
   console.log("Hello!");
+  console.log("Hello!");
 
   if ( !message ) {
     return `${mooncake} chookity?`;
