@@ -1,5 +1,5 @@
 function mooncakeSays(message) {
-  let mooncake = '(o.o)';
+  let mooncake = '(OO)';
  console.log("Welcome to Programiz!");
 console.log("Welcome to Programiz!");
   console.log("Hello!");
