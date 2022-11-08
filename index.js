@@ -13,3 +13,4 @@ console.log("Welcome to Programiz!");
 }
 
 module.exports.mooncakeSays = mooncakeSays;
+console.log("Test");
